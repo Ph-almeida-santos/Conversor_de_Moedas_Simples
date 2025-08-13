@@ -14,3 +14,6 @@ Um aplicativo console em C# que utiliza uma API para obter taxas de câmbio atua
 - C# (.NET 6 ou superior)
 - API ExchangeRatesAPI (http://exchangeratesapi.io/)
 - Serialização JSON com System.Text.Json
+
+feito por pedro almeida
+
