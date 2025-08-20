@@ -1,0 +1,14 @@
+D:\ConversorDeMoedas\ConversorDeMoedas\bin\Debug\net8.0\ConversorDeMoedas.exe
+D:\ConversorDeMoedas\ConversorDeMoedas\bin\Debug\net8.0\ConversorDeMoedas.deps.json
+D:\ConversorDeMoedas\ConversorDeMoedas\bin\Debug\net8.0\ConversorDeMoedas.runtimeconfig.json
+D:\ConversorDeMoedas\ConversorDeMoedas\bin\Debug\net8.0\ConversorDeMoedas.dll
+D:\ConversorDeMoedas\ConversorDeMoedas\bin\Debug\net8.0\ConversorDeMoedas.pdb
+D:\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net8.0\ConversorDeMoedas.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net8.0\ConversorDeMoedas.AssemblyInfoInputs.cache
+D:\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net8.0\ConversorDeMoedas.AssemblyInfo.cs
+D:\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net8.0\ConversorDeMoedas.csproj.CoreCompileInputs.cache
+D:\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net8.0\ConversorDeMoedas.dll
+D:\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net8.0\refint\ConversorDeMoedas.dll
+D:\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net8.0\ConversorDeMoedas.pdb
+D:\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net8.0\ConversorDeMoedas.genruntimeconfig.cache
+D:\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net8.0\ref\ConversorDeMoedas.dll
